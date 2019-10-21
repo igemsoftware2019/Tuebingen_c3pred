@@ -37,8 +37,11 @@ C3Pred was released as:
 * Python package / Command-line tool
 
 
-The Web APP of C3Pred can be found here
-https://github.com/igemsoftware2019/Tuebingen_c3pred_gui
+The Web App of C3Pred can be found here:
+
+Github: https://github.com/igemsoftware2019/Tuebingen_c3pred_gui
+
+Live version: https://igem-tuebingen.com/c3pred/
 
 
 
