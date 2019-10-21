@@ -39,7 +39,7 @@ C3Pred was released as:
 
 The Web App of C3Pred can be found here:
 
-Github: https://github.com/igemsoftware2019/Tuebingen_c3pred_gui
+Github: https://github.com/igemsoftware2019/Tuebingen_c3pred_webapp
 
 Live version: https://igem-tuebingen.com/c3pred/
 
